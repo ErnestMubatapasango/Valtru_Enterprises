@@ -1,0 +1,14 @@
+
+*,
+*::backdrop,
+*::after{
+
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body{
+  font-family: 'Inter' sans-serif;
+  
+}
+

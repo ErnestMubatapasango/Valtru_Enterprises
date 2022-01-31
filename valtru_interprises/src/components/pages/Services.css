@@ -1,0 +1,46 @@
+
+.cardss__section{
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px
+}
+.service__header{
+    text-align: left;
+    font-size: 3em;
+    font-weight: bold;
+}
+.service__cardss{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top:20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+      
+}
+.service__description{
+    line-height:1.5;
+}
+.scard{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 1em;
+    gap: 2em;
+    min-width: 400px;
+    min-height: 460px;
+    border: 2px solid #0ed2f7;
+    border-radius: 10px 100px / 120px;
+    padding: 20px;
+    text-align: center;
+    
+    
+}
+.scard img{
+    width:120px;
+    height:120px;  
+}
+Button{
+    display: none;
+}
