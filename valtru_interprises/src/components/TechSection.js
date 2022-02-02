@@ -12,7 +12,7 @@ function TechSection() {
 
             <div className="tech__flex-section">
                 <img className="prod__image" src="tech.png" alt="" />
-                
+                <Dropdown/>
             </div>
 
     </div>
@@ -20,4 +20,10 @@ function TechSection() {
   )
 }
 
+function Dropdown(){
+  c
+return(
+
+)
+}
 export default TechSection;
